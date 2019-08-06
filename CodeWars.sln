@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars", "CodeWars\CodeWars.csproj", "{28BC9071-DBDE-4059-931A-864B0D627E1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeWars", "CodeWars\CodeWars.csproj", "{28BC9071-DBDE-4059-931A-864B0D627E1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccumulTest", "AccumulTest\AccumulTest.csproj", "{85285507-D007-4F67-B07F-6374AFC6F48E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccumulTest", "AccumulTest\AccumulTest.csproj", "{85285507-D007-4F67-B07F-6374AFC6F48E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveExclamationTest.cs", "RemoveExclamationTest.cs\RemoveExclamationTest.cs.csproj", "{B02845E3-7A0F-4FB7-A099-3A39886D1EF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveExclamationTest.cs", "RemoveExclamationTest.cs\RemoveExclamationTest.cs.csproj", "{B02845E3-7A0F-4FB7-A099-3A39886D1EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RowWeightsTest", "RowWeightsTest\RowWeightsTest.csproj", "{A6DFCDBE-00C2-4628-82E7-FBEC13C98617}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RowWeightsTest", "RowWeightsTest\RowWeightsTest.csproj", "{A6DFCDBE-00C2-4628-82E7-FBEC13C98617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCountTest", "VowelCountTest\VowelCountTest.csproj", "{6289C451-AA35-4176-8C4D-77F0833ABD3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VowelCountTest", "VowelCountTest\VowelCountTest.csproj", "{6289C451-AA35-4176-8C4D-77F0833ABD3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestLowestTest", "HighestLowestTest\HighestLowestTest.csproj", "{DD7E9CD7-6536-41D6-979E-5A7F9FE7F5C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighestLowestTest", "HighestLowestTest\HighestLowestTest.csproj", "{DD7E9CD7-6536-41D6-979E-5A7F9FE7F5C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrowthOfPopulationTest", "GrowthOfPopulationTest\GrowthOfPopulationTest.csproj", "{C1BB633C-FD02-4794-831E-3833F6459672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrowthOfPopulationTest", "GrowthOfPopulationTest\GrowthOfPopulationTest.csproj", "{C1BB633C-FD02-4794-831E-3833F6459672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatePINTest", "ValidatePINTest\ValidatePINTest.csproj", "{1F9C058B-D4BC-4B7C-A8A1-E8A2664BCA43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidatePINTest", "ValidatePINTest\ValidatePINTest.csproj", "{1F9C058B-D4BC-4B7C-A8A1-E8A2664BCA43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareEveryDigitTest", "SquareEveryDigitTest\SquareEveryDigitTest.csproj", "{4820B367-28EB-429C-B3C1-91DDC072D50D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareEveryDigitTest", "SquareEveryDigitTest\SquareEveryDigitTest.csproj", "{4820B367-28EB-429C-B3C1-91DDC072D50D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoToOneTest", "TwoToOneTest\TwoToOneTest.csproj", "{9FA027EE-9846-4551-884C-A4BAB72DF4EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoToOneTest", "TwoToOneTest\TwoToOneTest.csproj", "{9FA027EE-9846-4551-884C-A4BAB72DF4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMiddleCharacterTest", "GetMiddleCharacterTest\GetMiddleCharacterTest.csproj", "{A691E7D2-6E7C-415D-B2FF-7E040651697F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{9FA027EE-9846-4551-884C-A4BAB72DF4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FA027EE-9846-4551-884C-A4BAB72DF4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FA027EE-9846-4551-884C-A4BAB72DF4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A691E7D2-6E7C-415D-B2FF-7E040651697F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A691E7D2-6E7C-415D-B2FF-7E040651697F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A691E7D2-6E7C-415D-B2FF-7E040651697F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A691E7D2-6E7C-415D-B2FF-7E040651697F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
