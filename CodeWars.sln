@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoToOneTest", "TwoToOneTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMiddleCharacterTest", "GetMiddleCharacterTest\GetMiddleCharacterTest.csproj", "{A691E7D2-6E7C-415D-B2FF-7E040651697F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetWarTest", "AlphabetWarTest\AlphabetWarTest.csproj", "{63AE4C8C-730F-4A43-929F-1F4F5881AEF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A691E7D2-6E7C-415D-B2FF-7E040651697F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A691E7D2-6E7C-415D-B2FF-7E040651697F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A691E7D2-6E7C-415D-B2FF-7E040651697F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AE4C8C-730F-4A43-929F-1F4F5881AEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AE4C8C-730F-4A43-929F-1F4F5881AEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AE4C8C-730F-4A43-929F-1F4F5881AEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AE4C8C-730F-4A43-929F-1F4F5881AEF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
