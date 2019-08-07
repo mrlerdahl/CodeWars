@@ -6,7 +6,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(AlphabetWar.War("*zd*qm*wp*bs*")); 
+            SquareOfSquares.IsSquare(26);
         }
     }
 }

@@ -15,7 +15,7 @@ namespace CodeWars
         // This method first determins if the string has an even number of elements or an odd number
         // Dividing the length of the string by two gives the middle
         // Since indexing starts at 0 I have to subtract to get the first middle letter of an even element string
-        // findMiddle when divided for odd elements in a string returns a decimil which will be trunkcated, meaning we don't need to subtract one for the proper index
+        // findMiddle when divided for odd elements in a string returns a decimil which will be truncated, meaning we don't need to subtract one for the proper index
         public static string GetMiddle(string s)
         {
             int findMiddle;
