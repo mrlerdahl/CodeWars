@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabetAirStrikeWar", "Alp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareOfSquaresTest", "SquareOfSquaresTest\SquareOfSquaresTest.csproj", "{A05D97F1-8E9D-4AD5-93AD-D69E4BE696C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplementaryDNATest", "ComplementaryDNATest\ComplementaryDNATest.csproj", "{C39969FD-1C93-4936-BABA-D08B73EABAB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A05D97F1-8E9D-4AD5-93AD-D69E4BE696C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A05D97F1-8E9D-4AD5-93AD-D69E4BE696C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A05D97F1-8E9D-4AD5-93AD-D69E4BE696C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C39969FD-1C93-4936-BABA-D08B73EABAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39969FD-1C93-4936-BABA-D08B73EABAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39969FD-1C93-4936-BABA-D08B73EABAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39969FD-1C93-4936-BABA-D08B73EABAB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
