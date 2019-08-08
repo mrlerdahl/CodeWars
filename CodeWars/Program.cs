@@ -6,7 +6,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            SquareOfSquares.IsSquare(26);
+            Console.WriteLine(GreedIsGood.Score(new int[] { 2, 3, 4, 6, 2 }));
         }
     }
 }
