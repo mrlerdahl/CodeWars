@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisemvowelTrollsTest", "Dis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabetAirStrikeWar", "AlphabetAirStrikeWar\AlphabetAirStrikeWar.csproj", "{5C0E1D9A-4266-40BC-AD24-CBB9744880A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareOfSquaresTest", "SquareOfSquaresTest\SquareOfSquaresTest.csproj", "{A05D97F1-8E9D-4AD5-93AD-D69E4BE696C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareOfSquaresTest", "SquareOfSquaresTest\SquareOfSquaresTest.csproj", "{A05D97F1-8E9D-4AD5-93AD-D69E4BE696C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplementaryDNATest", "ComplementaryDNATest\ComplementaryDNATest.csproj", "{C39969FD-1C93-4936-BABA-D08B73EABAB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplementaryDNATest", "ComplementaryDNATest\ComplementaryDNATest.csproj", "{C39969FD-1C93-4936-BABA-D08B73EABAB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeDegreesTest", "TimeDegreesTest\TimeDegreesTest.csproj", "{38DA03B2-DF4E-42A2-B4A9-6CA758EC89BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{C39969FD-1C93-4936-BABA-D08B73EABAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C39969FD-1C93-4936-BABA-D08B73EABAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C39969FD-1C93-4936-BABA-D08B73EABAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DA03B2-DF4E-42A2-B4A9-6CA758EC89BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DA03B2-DF4E-42A2-B4A9-6CA758EC89BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DA03B2-DF4E-42A2-B4A9-6CA758EC89BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DA03B2-DF4E-42A2-B4A9-6CA758EC89BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

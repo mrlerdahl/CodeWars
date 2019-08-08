@@ -10,6 +10,8 @@ namespace CodeWars
         //Return who wins the fight after bombs are exploded. When the left side wins return Left side wins!, 
         //when the right side wins return Right side wins!, in other case return Let's fight again!.
 
+
+        
         public static string AlphabetWar(string str)
         {
 
@@ -76,6 +78,7 @@ namespace CodeWars
                 return "Let's fight again!";
 
             return (leftSideScore > rightSideScore) ? "Left side wins!" : "Right side wins!";
+
         }
     }
 }
