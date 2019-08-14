@@ -26,6 +26,7 @@ namespace CodeWars
                     countScore = 0;
                     continue;
                 }
+
                 
                 switch (s[i])
                 {
